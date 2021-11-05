@@ -1,0 +1,13 @@
+.navbar-login div {
+  display: flex;
+}
+
+.navbar-login p {
+  align-self: center;
+  margin-left: 10px;
+}
+
+.navbar-login img {
+  width: 3.2rem;
+  height: 3.2rem;
+}
